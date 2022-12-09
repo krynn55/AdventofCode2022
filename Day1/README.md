@@ -40,4 +40,4 @@ In case the Elves get hungry and need extra snacks, they need to know which Elf 
 
 Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
 
-[Link to Day 1](https://adventofcode.com/2022/day/1)
+[Day 1 Advent of Code](https://adventofcode.com/2022/day/1)
